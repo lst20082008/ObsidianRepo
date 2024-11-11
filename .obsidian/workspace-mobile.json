@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb884f4d6a0977f2",
+        "id": "367e10a67314436b",
         "type": "tabs",
         "children": [
           {
-            "id": "40ff3e464021eb49",
+            "id": "3811fc830cf84327",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-10 23.07.03.excalidraw.md"
+                "file": "godot4/rpc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-10 23.07.03.excalidraw"
+              "icon": "lucide-file",
+              "title": "rpc"
             }
           }
         ]
@@ -153,12 +155,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "40ff3e464021eb49",
+  "active": "3811fc830cf84327",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-11 20.12.53.excalidraw.md",
+    "godot4/rpc.md",
+    "games/wild cars/wild cars.md",
+    "godot4",
     "Excalidraw/Drawing 2024-11-10 23.07.03.excalidraw.md",
     "Excalidraw/Drawing 2024-11-10 23.05.35.excalidraw.md",
     "Excalidraw",
-    "games/wild cars/wild cars.md",
     "Excalidraw/Drawing 2024-11-10 23.04.30.excalidraw.md",
     "games/wild cars",
     "games",
